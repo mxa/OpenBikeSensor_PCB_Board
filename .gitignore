@@ -4,6 +4,7 @@
 *.kicad_pro-bak
 *.kicad_sch-bak
 *.net
+*.kicad_prl
 *.sch-bak
 fp-info-cache
 *-backups
